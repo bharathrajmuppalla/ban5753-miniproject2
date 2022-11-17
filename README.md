@@ -131,11 +131,6 @@ Specificity- 93.6%
 ![image](https://user-images.githubusercontent.com/89102349/202364537-aa22af71-7cf1-4161-91c7-a640312fc089.png))
 
 ### Model Comparison
-  Model Name	        Accuracy	  AUC	  Specificity	  Sensitivity
-Logistic Regression	  0.9088	   0.9314	  95.5%	        69.2%
-Decision Tree	        0.9023	   0.8673	  93%	          69.3%
-Random Forest	        0.9046	   0.9276	  94%	          44.1%
-GBT Classifier	      0.9076	   0.9410	  93.6%	        69%
 
 ![image](https://user-images.githubusercontent.com/89102349/202365311-441b6268-60fa-4f1d-95e9-7a002f7749d5.png)
 
