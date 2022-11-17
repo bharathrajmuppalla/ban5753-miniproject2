@@ -40,6 +40,9 @@ we split the data into training and testing datasets with training containing 80
 ![image](https://user-images.githubusercontent.com/89102349/202363613-c9f13223-7fdd-4c16-b045-56cdc8dc6ba9.png)
 * Confusion Matrix
 ![image](https://user-images.githubusercontent.com/89102349/202363673-00ce8e2c-de5c-417e-addc-eb8069804704.png)
+
+
+
 Sensitivity- 56.2%
 Specificity- 95.5%
 * Accuracy
